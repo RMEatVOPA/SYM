@@ -87,7 +87,8 @@ The meeting then appears on the Meetings page, on the Timeline (as a dot, and un
 ### Next year's school list
 
 1. Upload the sheet as `data/schools_year2.csv` with the same column headings as Year 1:
-   `UDISE code, School name, Total students (5th to 8th), Management details, Block, Medium`
+   `UDISE code, School name, Total students (5th to 8th), Management details, Block, Medium, Std 5, Std 6, Std 7, Std 8`
+   (one row per UDISE code per medium; the Std columns should add up to the total)
 2. In `data/project.json`, set `"schools_file": "data/schools_year2.csv"` for Year 2.
 
 If the headings change, add the new spelling to `SCHOOL_COLS` near the top of `assets/common.js`.
@@ -98,7 +99,7 @@ Entries with `"sample": true` show a yellow "Sample" tag. Delete them (and `data
 
 ## Logos
 
-The header has a logo slot on each side, like the NM dashboard. Add `assets/logo-left.png` and/or `assets/logo-right.png` (PNG with a transparent background, about 300 px tall) and they appear automatically. If a file is missing, that slot stays empty.
+The संयम logo is `assets/sym-logo.png` (header, left). The right-hand slot is empty; add `assets/logo-right.png` (about 300 px tall) and it appears automatically.
 
 ## JSON tips
 
