@@ -1,0 +1,33 @@
+{
+  "name": "SYM",
+  "name_mr": "संयम",
+  "organisation": "VOPA (Vowels of the People Association)",
+  "team": "Research, Monitoring and Evaluation",
+  "area": "Pune city",
+  "years": [
+    {
+      "year": 1,
+      "label": "Year 1",
+      "start": "2026-09-01",
+      "end": "2027-03-31",
+      "schools_file": "data/schools_year1.csv"
+    },
+    {
+      "year": 2,
+      "label": "Year 2",
+      "start": "2027-09-01",
+      "end": "2028-03-31",
+      "schools_file": null
+    },
+    {
+      "year": 3,
+      "label": "Year 3",
+      "start": "2028-09-01",
+      "end": "2029-03-31",
+      "schools_file": null
+    }
+  ],
+  "area_short": "Pune city",
+  "standards": "Std 5 to 8",
+  "tagline": "An Addiction Prevention Initiative"
+}

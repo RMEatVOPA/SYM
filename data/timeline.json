@@ -1,0 +1,31 @@
+[
+  {
+    "id": "y1-kickoff",
+    "title": "Year 1 kickoff",
+    "type": "Milestone",
+    "start": "2026-09-01",
+    "status": "Done",
+    "description": "Sample entry. Replace with the real kickoff date and notes.",
+    "sample": true
+  },
+  {
+    "id": "y1-baseline",
+    "title": "Baseline assessment",
+    "type": "Assessment",
+    "start": "2026-11-16",
+    "end": "2026-11-28",
+    "status": "Planned",
+    "description": "Sample entry. Replace with the real assessment window, tools and coverage.",
+    "sample": true
+  },
+  {
+    "id": "y1-endline",
+    "title": "Endline assessment",
+    "type": "Assessment",
+    "start": "2027-03-08",
+    "end": "2027-03-20",
+    "status": "Planned",
+    "description": "Sample entry. Replace with the real assessment window.",
+    "sample": true
+  }
+]

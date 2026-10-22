@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2026-10-12-baseline-planning",
+    "date": "2026-10-12",
+    "title": "Baseline planning",
+    "type": "Internal",
+    "participants": "RME team",
+    "events": ["y1-baseline"],
+    "minutes": "data/minutes/2026-10-12-baseline-planning.md",
+    "sample": true
+  }
+]

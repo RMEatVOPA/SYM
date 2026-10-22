@@ -1,0 +1,23 @@
+[
+  {
+    "id": "y1-school-list",
+    "title": "Year 1 school list",
+    "type": "Data",
+    "year": 1,
+    "date": "2026-10-16",
+    "url": "data/schools_year1.csv",
+    "description": "School-medium list used on the Demographics page.",
+    "events": []
+  },
+  {
+    "id": "sample-baseline-tool",
+    "title": "Baseline tool (sample)",
+    "type": "Tool",
+    "year": 1,
+    "date": "2026-11-01",
+    "url": "",
+    "description": "Sample entry. Add a link to the tool, for example a SharePoint link or a file in the files folder.",
+    "events": ["y1-baseline"],
+    "sample": true
+  }
+]
